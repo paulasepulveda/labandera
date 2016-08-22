@@ -1,0 +1,10 @@
+/* Escribe tu css aqui */
+.yellow {
+	background-color: yellow;
+}
+.pink {
+	background-color: pink;
+}
+.yellow, .pink{
+	height: 100px
+}
